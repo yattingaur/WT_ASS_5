@@ -1,4 +1,12 @@
-
+.c1{
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.c1:hover{
+  box-shadow: 0px 0px 10px 0.5px rgba(0, 0, 0, 0.521);
+}
 
 #demo1{
   margin-top: 50px;
